@@ -33,7 +33,7 @@ See `requirements.txt` for Python package dependencies.
 
 1. Clone the repository:
 
-git clone https://github.com/jaw1999/bladerf-tool.git
+git clone https://github.com/jaw1999/bladerf_tool.git
 
 cd bladerf-tool
 
