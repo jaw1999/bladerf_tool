@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a real-time spectrum analyzer using a BladeRF software-defined radio. It consists of a C backend for interfacing with the BladeRF hardware and performing FFT calculations, and a Python frontend for the user interface. The spectrum analyzer provides both a traditional spectrum plot and a waterfall display, allowing for detailed display.
+This project implements a real-time spectrum analyzer using a BladeRF software-defined radio. It consists of a C backend for interfacing with the BladeRF hardware and performing FFT calculations, and a Python frontend for the user interface. The spectrum analyzer provides both a traditional spectrum plot and a waterfall display, allowing for a more detailed display.
 
 ## Features
 
