@@ -1,0 +1,7 @@
+/home/photon/bladerf-dev/backend/build/CMakeFiles/spectrumanalyzer.dir
+/home/photon/bladerf-dev/backend/build/CMakeFiles/edit_cache.dir
+/home/photon/bladerf-dev/backend/build/CMakeFiles/rebuild_cache.dir
+/home/photon/bladerf-dev/backend/build/CMakeFiles/list_install_components.dir
+/home/photon/bladerf-dev/backend/build/CMakeFiles/install.dir
+/home/photon/bladerf-dev/backend/build/CMakeFiles/install/local.dir
+/home/photon/bladerf-dev/backend/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libspectrumanalyzer.so -o libspectrumanalyzer.so CMakeFiles/spectrumanalyzer.dir/src/spectrum_analyzer.c.o  -Wl,-rpath,/usr/local/lib64: /usr/local/lib64/libbladeRF.so /usr/lib64/libfftw3f.so -lm 
